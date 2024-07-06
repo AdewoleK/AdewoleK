@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on on data analysis with like minds to drive actionable goal
 - 📫 How to reach me, email address isaacadewolekehinde@gmail.com
 - 😄 Pronouns: ... Mr
-- ⚡ Fun fact: ... I am very good at what i do
+- ⚡ Fun fact: ... I am very good at what I do
 
 <!---
 AdewoleK/AdewoleK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
