@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdewoleK
 - 👀 I’m interested in Data and AI
-- 💞️ I’m looking forward to collaboration on data and AI projects with like minds to drive actionable goal
+- 💞️ I’m looking forward to collaboration on data and AI projects
 - 📫 How to reach me, email address isaacadewolekehinde@gmail.com
 - 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... I am very good at what I do
