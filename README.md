@@ -16,12 +16,12 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, SQL, TypeScript, JavaScript, HTML5/CSS3, DAX [cite: 17] |
-| **Web Dev & Frameworks** | [cite_start]Next.js, React.js, Tailwind CSS, Node.js [cite: 17] |
-| **Generative AI & LLMs** | [cite_start]LangChain, RAG Architecture, Hugging Face Transformers, DeepSeek, Qwen [cite: 21, 37, 43] |
-| **Machine Learning** | [cite_start]Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost [cite: 20] |
-| **Data Architecture & BI** | [cite_start]PostgreSQL, MySQL, SQLite, Power BI, Tableau, Looker Studio [cite: 24, 25] |
-| **DevOps & Automation** | [cite_start]AWS, Docker, Git/GitHub, CI/CD, n8n, Zapier [cite: 18, 27, 28] |
+| **Languages** | Python, SQL, TypeScript, JavaScript, HTML5/CSS3, DAX [cite: 17] |
+| **Web Dev & Frameworks** | Next.js, React.js, Tailwind CSS, Node.js [cite: 17] |
+| **Generative AI & LLMs** | LangChain, RAG Architecture, Hugging Face Transformers, DeepSeek, Qwen [cite: 21, 37, 43] |
+| **Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost [cite: 20] |
+| **Data Architecture & BI** | PostgreSQL, MySQL, SQLite, Power BI, Tableau, Looker Studio [cite: 24, 25] |
+| **DevOps & Automation** | AWS, Docker, Git/GitHub, CI/CD, n8n, Zapier [cite: 18, 27, 28] |
 
 ---
 
